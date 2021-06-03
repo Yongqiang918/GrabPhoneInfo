@@ -1,0 +1,5 @@
+<resources>
+<!--    <string name="app_name">GrabPhoneData</string>-->
+    <string name="permission_location">去设置页面打开定位权限</string><!--    Buka halaman pengaturan dan aktifkan akses lokasi-->
+
+</resources>
